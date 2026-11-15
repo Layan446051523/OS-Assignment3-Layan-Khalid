@@ -23,7 +23,7 @@ University Email	446051523@std.psau.edu.sa
 GitHub Username	Layan446051523
 Repository Link	https://github.com/Layan446051523/OS-Assignment3-Layan-Khalid
 🎥 Video Link
-Video Link: [Paste your video link here]
+Video Link:https://drive.google.com/file/d/1VJ_UkDxyl82dhixR8gX25DXNx2-zuAOQ/view?usp=sharing
 ⚠️ WARNING: The video must be publicly accessible ("Anyone with the link can view") on Google Drive, YouTube (Unlisted or Public) or any other cloud file-sharing system. A private, restricted or broken link counts as a missing video (-1 mark).
 💡 TIP: Open the link in a private/incognito window before you submit. If it asks you to log in or request access, it is not public.
 📌 NOTE: The link goes in this file only (MY_WORK.md), not in README.md. Name your video file StudentID_Assignment3_Demo.mp4. It must last 2 to 3 minutes.
@@ -65,7 +65,8 @@ Part A: Development Log (0.5 mark)
 💡 TIP: Be specific. "Worked on the code" is a weak entry. "Added a ReentrantLock queueLock to ReadyQueue and wrapped the body of poll() in lock() / try / finally { unlock() }" is a strong one.
 📌 NOTE: Each entry needs: date and time, what you did, details, challenges, solution, and time spent. Real challenges are fine (and expected). Do not invent fake ones.
 Example Entry (do not copy it, write your own)
-Entry 1 - [November 2, 2026, 4:30 PM]
+Entry 1 - [### Entry 1 - [November 15, 2026, 6:40 PM]
+]
 What I did: Forked the repository, set my student ID, and ran the original starter
 Details:
 Forked the starter repository and renamed it
@@ -137,14 +138,19 @@ Committed and pushed: Docs: Completed development log, reflection and technical 
 Challenges: Explaining the lost update and the bounded-buffer deadlock clearly
 Solution: Reviewed the race condition and producer-consumer parts of the Chapter 5 slides and used my own output as the example
 Time spent: 20 minutes
-Entry 7 - [Optional - Date and Time]
+### Entry 7 - [November 15, 2026, 9:50 PM]
 What I did: Recorded and uploaded the video demonstration
+
 Details:
-Recorded a 2-3 minute video in VS Code, uploaded it as 446051523_Assignment3_Demo.mp4 and set it to "Anyone with the link can view"
-Committed and pushed: Docs: Added demo video link
-Challenges: [Write the real problem you hit, or "None"]
-Solution: [Write how you fixed it]
-Time spent: [X minutes]
+- Recorded the video in VS Code: introduction, code walkthrough of the 3 features, program run with the verification block, explanation of the race condition, and commit history
+- Uploaded it as 446051523_Assignment3_Demo.mp4 and set it to "Anyone with the link can view"
+- Committed and pushed: Docs: Added demo video link
+
+Challenges: My first recording was 3 minutes and 51 seconds, which is longer than the 3-minute limit
+
+Solution: I shortened my explanations, especially the race condition part, so the video fits between 2 and 3 minutes
+
+Time spent: 40 minutes
 Development Log Summary
 💡 TIP: Fill this in last, after all entries are written.
 Total time spent on assignment: About 2 hours
